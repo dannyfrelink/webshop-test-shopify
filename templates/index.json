@@ -1,0 +1,12 @@
+{
+  "name": "Template Homepage",
+  "sections": {
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "featured_collection": "frontpage"
+      }
+    }
+  },
+  "order": ["featured-collection"]
+}
